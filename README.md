@@ -1,2 +1,2 @@
-# python_cero
+# py_cero
 Clases de python
