@@ -7,5 +7,5 @@
 
 ### Lista de proyectos completados
 
-  1. Classofication Model Evaluation
+  1. Classification Model Evaluation
   2. Determining ROC Curve and Cut off 
